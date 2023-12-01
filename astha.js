@@ -1,2 +1,2 @@
 // the hello world program
-console.log('Hello, World!! i am astha');
+console.log('Hello, World, I am Astha!');
